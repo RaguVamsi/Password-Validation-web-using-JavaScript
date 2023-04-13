@@ -22,11 +22,12 @@ When the user submits the form, the JavaScript code checks the password against 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/231828700-499b2931-0c63-4d10-88e8-f8a6ee331411.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/231829014-0c0feb5d-926d-428b-ba86-a56c118436cb.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/231829157-eae10d44-7a87-411b-a921-ff49d1b0ab6a.png)
+
 
 
 ## Tech Stack
@@ -34,5 +35,7 @@ When the user submits the form, the JavaScript code checks the password against 
 **Client:** HTML, CSS , Javascript
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+## Logo 
+![Untitled design](https://user-images.githubusercontent.com/107539107/231829445-55037544-5233-40b1-8ca8-46c2b3d2d697.png)
+
 
